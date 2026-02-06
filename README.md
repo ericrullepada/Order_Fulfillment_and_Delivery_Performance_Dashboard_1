@@ -4,7 +4,7 @@
 
 This project analyzes order fulfillment performance using Excel to identify delivery friction and operational inefficiencies. The analysis shows that most orders fall under non-delivered statuses, with issues distributed across multiple delivery stages rather than driven by a single failure point. Assembly service is associated with higher cancellation and rescheduling rates, indicating added logistical complexity, while a small group of brands and payment methods account for the majority of order volume. These insights highlight opportunities to improve fulfillment coordination and delivery efficiency.
 
-![](https://github.com/ericrullepada/Order_Fulfillment_and_Delivery_Performance_Dashboard_1/blob/main/Order%20Fulfilment%26Delivery_Performanc_Dashboard.png).
+![](https://github.com/ericrullepada/Order_Fulfillment_and_Delivery_Performance_Dashboard_1/blob/main/Order%20Fulfilment%26Delivery_Performanc_Dashboard.png)
 
 
 ## **Tools & Technologies Used**
